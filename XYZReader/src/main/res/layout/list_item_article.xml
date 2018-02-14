@@ -31,7 +31,7 @@
             android:paddingTop="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="4dp"
-            android:textColor="#ffffff"
+            android:textColor="@android:color/black"
             android:ellipsize="end"
             android:maxLines="4"
             android:fontFamily="sans-serif-medium"
@@ -45,11 +45,12 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="#6000"
+            android:textColor="@android:color/black"
 
             android:maxLines="2"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
+            android:textStyle="italic"
             />
     </LinearLayout>
 

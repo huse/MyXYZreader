@@ -62,7 +62,7 @@
                         android:layout_height="wrap_content"
                         android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                         android:fontFamily="sans-serif-medium"
-                        android:textColor="#ffffff"
+                        android:textColor="@android:color/black"
                         android:textStyle="bold"
                         android:textSize="@dimen/detail_title_text_size"
                         android:lineSpacingMultiplier="0.9"
@@ -73,7 +73,7 @@
                         style="?android:attr/textAppearanceSmall"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#ffffff"
+                        android:textColor="@android:color/black"
                         android:fontFamily="sans-serif-medium"
                         />
                 </LinearLayout>
@@ -86,7 +86,7 @@
                     android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
                     android:layout_marginRight="@dimen/detail_inner_horiz_margin"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
-                    android:textColor="#ffffff"
+                    android:textColor="@android:color/black"
                     android:textColorLink="@color/theme_accent"
                     android:textSize="@dimen/detail_body_text_size"
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
